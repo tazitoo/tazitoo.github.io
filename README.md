@@ -1,30 +1,21 @@
-## Welcome to GitHub Pages
+## Brian Barr
 
-You can use the [editor on GitHub](https://github.com/tazitoo/tazitoo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Machine learning researcher based in NY, with interests in explainable articificial intelligence (XAI) and fairness.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](barrbc@gmail.com) / [Website](https://tazitoo.github.io/) / [GitHub](https://github.com/tazitoo) /   [LinkedIn](www.linkedin.com/brianbarr) / 
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Recent Publications
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Patents
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Misc
 
-[Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
