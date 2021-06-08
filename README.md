@@ -1,6 +1,6 @@
 ## Brian Barr
 
-Machine learning researcher based in NY, with interests in explainable articificial intelligence (XAI) and fairness.
+Machine learning researcher based in NY, with interests in deep learning, explainable articificial intelligence (XAI) and fairness.
 
 [Email](barrbc@gmail.com) / [Website](https://tazitoo.github.io/) / [GitHub](https://github.com/tazitoo) /   [LinkedIn](www.linkedin.com/brianbarr) / 
 
@@ -11,6 +11,14 @@ Machine learning researcher based in NY, with interests in explainable articific
 
 
 ### Patents
+Deep learning surrogate for turbulent flow - 2019  
+System and methods for correcting build parameters in an additive manufacturing process based on a thermal model and sensor data - 2019  
+Optimization methods for physical models - 2018 
+Components with compound angled cooling features and methods of manufacture  - 2015  
+Methods and apparatus relating to improved turbine blade platform contours - 2008  
+Scalloped surface turbine stage with trailing edge ridges  - 2008  
+Scalloped surface turbine stage  - 2012  
+Scalloped surface turbine stage with purge trough  - 2012  
 
 
 ### Misc
